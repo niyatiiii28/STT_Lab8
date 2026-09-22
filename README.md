@@ -291,6 +291,3 @@ Open `http://localhost:9567` in browser.
 
 ---
 
-## License
-
-Academic project (STT Lab 8). No license specified.
